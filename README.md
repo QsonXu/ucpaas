@@ -30,3 +30,5 @@ var result = yield ucpaas.sms({
 
 
 ```
+
+Actually, you can use parameter in ucpaas documentation, give the method that your call, except `appId`.
