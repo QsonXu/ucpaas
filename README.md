@@ -33,5 +33,5 @@ var result = yield ucpaas.sms({
 
 Actually, you can use parameter in ucpaas documentation, give the method that your call, except `appId`.
 
-#notice
+#Notice
 This module only support base api contain sms,voice,callBack,callCancel,roamOpen and roamClose now.
