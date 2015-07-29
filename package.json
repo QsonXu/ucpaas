@@ -1,11 +1,8 @@
 {
-  "name": "koa-ucpaas",
+  "name": "ucpaas",
   "version": "1.0.0",
-  "description": "",
+  "description": "A third part node.js module for ucpaas",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "liuguili <gongzili456@gmail.com> (http://geeekr.com)",
   "license": "ISC",
   "dependencies": {
