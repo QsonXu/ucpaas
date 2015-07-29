@@ -4,6 +4,10 @@
   "description": "A third part node.js module for ucpaas",
   "main": "index.js",
   "author": "liuguili <gongzili456@gmail.com> (http://geeekr.com)",
+  "repository": {
+    "type": "git",
+    "url": "git@https://github.com/gongzili456/ucpaas.git"
+  },
   "license": "ISC",
   "dependencies": {
     "co-request": "^0.2.1",
