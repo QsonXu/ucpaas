@@ -6,7 +6,6 @@
   "author": "liuguili <gongzili456@gmail.com> (http://geeekr.com)",
   "license": "ISC",
   "dependencies": {
-    "co": "^4.6.0",
     "co-request": "^0.2.1",
     "dateformat": "^1.0.11",
     "object-assign": "^3.0.0"
