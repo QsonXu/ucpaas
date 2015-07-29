@@ -1,5 +1,5 @@
 # ucpaas
-A node.js module for ucpaas (云之讯 http://www.ucpaas.com)
+A third part node.js module for ucpaas (云之讯 http://www.ucpaas.com)
 
 
 #Install
