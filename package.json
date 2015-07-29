@@ -1,13 +1,14 @@
 {
   "name": "ucpaas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A third part node.js module for ucpaas",
   "main": "index.js",
   "author": "liuguili <gongzili456@gmail.com> (http://geeekr.com)",
   "repository": {
     "type": "git",
-    "url": "git@https://github.com/gongzili456/ucpaas.git"
+    "url": "https://github.com/gongzili456/ucpaas.git"
   },
+  "keywords": "ucpaas",
   "license": "ISC",
   "dependencies": {
     "co-request": "^0.2.1",
