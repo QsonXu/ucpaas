@@ -14,7 +14,7 @@ co(function* () {
 
   var result = yield ucpaas.sms({
     "param": "AppName,1024,1",
-    "templateId": "9947",
+    "templateId": "1234",
     "to": "18512345678"
   });
 
