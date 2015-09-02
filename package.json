@@ -1,6 +1,6 @@
 {
   "name": "ucpaas",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A third part node.js module for ucpaas",
   "main": "index.js",
   "author": "liuguili <gongzili456@gmail.com> (http://geeekr.com)",
