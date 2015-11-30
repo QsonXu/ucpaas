@@ -20,6 +20,3 @@ co(function* () {
 
   console.log('result: ', result);
 });
-
-
-
